@@ -34,7 +34,7 @@ void main()
             for (int j = 0; j < 39; j++)
             {
                 if (rand() % 4 == 0)
-                    mas[i][j] = static_cast<char>(176);//наткнулся на таблицу символов на сайте cppstudio.com/post/276/
+                    mas[i][j] = static_cast<char>(176);
                 else
                     mas[i][j] = ' ';
 
