@@ -1,1 +1,1 @@
-# RandomLabirint_C++
+# Random_Maze_C++
